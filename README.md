@@ -1,1 +1,1 @@
-# Digital-photo-frame
+# Photo-frame
